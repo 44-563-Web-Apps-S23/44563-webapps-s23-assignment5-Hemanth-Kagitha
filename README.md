@@ -1,5 +1,7 @@
 # WebApps-Assignment-5 Starter Code
 
+*bold*
+**italiics**
 ***It's in bold italics***
 
 <br>
